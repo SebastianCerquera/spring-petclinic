@@ -44,7 +44,7 @@
 
         <cobertura.version>2.7</cobertura.version>
 
-        <stagemonitor.version>0.27.2</stagemonitor.version>
+        <stagemonitor.version>0.31.0</stagemonitor.version>
     </properties>
 
     <dependencyManagement>
